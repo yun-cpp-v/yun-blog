@@ -15,8 +15,8 @@ plugins:
       title_enable: false
       outer_begin: '{'
       outer_end: '}'
-      inter_begin: '_'
-      inter_end: '_'
+      inter_begin: "(ruby: "
+      inter_end: ")"
 
 theme:
   name: material
