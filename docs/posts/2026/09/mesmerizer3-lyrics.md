@@ -2,6 +2,9 @@
 ruby: true
 ---
 
+# メズマライザー３ 歌詞
+
+
 元動画 (Mealerrand 様): [https://www.nicovideo.jp/watch/sm46696708](<https://www.nicovideo.jp/watch/sm46696708>)
 
 歌詞文字起こし参考:
@@ -11,10 +14,6 @@ ruby: true
 - やばいクレーマーのSUSURU TV
 
 ニコカラ (ゆん): [https://www.nicovideo.jp/watch/sm46855929](<https://www.nicovideo.jp/watch/sm46855929>)
-
-
-# メズマライザー３ 歌詞
-
 
 ---
 {実(ruby: じっ)}{際(ruby: さい)}の{感(ruby: かん)}{情(ruby: じょう)}は{No(ruby: ノー)} {Think(ruby: シンク)}!<br>
