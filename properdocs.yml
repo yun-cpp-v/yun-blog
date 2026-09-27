@@ -10,6 +10,13 @@ repo_name: yun-cpp-v/yun-blog
 plugins:
   - search
   - awesome-pages
+  - ruby:
+      global_enable: false
+      title_enable: false
+      outer_begin: '{'
+      outer_end: '}'
+      inter_begin: '_'
+      inter_end: '_'
 
 theme:
   name: material
